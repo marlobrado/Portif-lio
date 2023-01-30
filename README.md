@@ -52,3 +52,6 @@ Segue as informações sobre cada um:
         *   **linkedinUser:** _Inserindo o usuário do seu linkedin será gerado um link para que os usuários acessem seu LinkedIn_
             
         *   **whatsappNumber:** _Nessa propriedade você precisará inserir seu DDD junto com o seu número do whatsapp, assim quem clicar no link "whatsapp" irá ser enviado para o seu contato já com uma mensagem pré-definida_
+
+
+Comecei a minha jornada com a programação em 2021 quando ingressei no curso de Análise e Desenvolvimento de Sistemas e desde então me apaixonei pela área e venho aprofundando os meus conhecimentos em linguagens como JavaScript e Python.

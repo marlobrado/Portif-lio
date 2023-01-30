@@ -29,7 +29,7 @@ import {
 
 export const Home = (): JSX.Element => {
     const gihubUrl = `https://github.com/${userData.githubUser}`;
-    const portfolioUrl = `https://github.com/${userData.githubUser}/  Portif-lio`;
+    const portfolioUrl = `https://github.com/${userData.githubUser}/Portif-lio`;
 
     return (
         <main id="home">
@@ -50,13 +50,13 @@ export const Home = (): JSX.Element => {
                             </Text>
                         </Flex>
                         <Text as="h1" type="heading1" color="grey5">
-                            Eu sou{" "}
+                        Comecei a minha jornada com a programação em 2021 quando ingressei no curso de{" "}
                             <Text as="span" type="heading1" color="brand1">
-                                desenvolvedor WEB
+                            Análise e Desenvolvimento de Sistemas
                             </Text>{" "}
-                            e amo trabalhar com{" "}
+                            e desde então me apaixonei pela área e venho aprofundando os meus conhecimentos em linguagens como{" "}
                             <Text as="span" type="heading1" color="brand1">
-                                tecnologia.
+                            JavaScript e Python.
                             </Text>{" "}
                         </Text>
                         <Text type="body1" color="grey2">
