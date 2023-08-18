@@ -45,18 +45,18 @@ export const Home = (): JSX.Element => {
                                 height={"48px"}
                             />
                             <Text color="grey4">
-                                Olá, meu nome é {userData.nameUser} e esta é o
+                                Olá, meu nome é {userData.nameUser} e este é o
                                 meu portifólio
                             </Text>
                         </Flex>
                         <Text as="h1" type="heading1" color="grey5">
-                        Comecei a minha jornada com a programação em 2021 quando ingressei no curso de{" "}
+                        Desenvolvedor web full stack{" "}
                             <Text as="span" type="heading1" color="brand1">
-                            Análise e Desenvolvimento de Sistemas
+                            apaixonado
                             </Text>{" "}
-                            e desde então me apaixonei pela área e venho aprofundando os meus conhecimentos em linguagens como{" "}
+                            por criar novas experiências{" "}
                             <Text as="span" type="heading1" color="brand1">
-                            JavaScript e Python.
+                            por meio da tecnologia.
                             </Text>{" "}
                         </Text>
                         <Text type="body1" color="grey2">
